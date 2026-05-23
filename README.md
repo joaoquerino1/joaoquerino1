@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Jo%C3%A3o+Querino!+%F0%9F%91%8B;Em+transi%C3%A7%C3%A3o+de+carreira+para+tech+%F0%9F%9A%80;Transformando+caf%C3%A9+em+c%C3%B3digo+%E2%98%95%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Jo%C3%A3o+Querino!+%F0%9F%91%8B;Em+transi%C3%A7%C3%A3o+de+carreira+para+tech+%F0%9F%9A%80;Transformando+caf%C3%A9+em+c%C3%B3digo+%E2%98%95%F0%9F%92%BB" alt="Typing SVG" />
 
 </div>
 
@@ -12,9 +12,9 @@ Oi! Sou o **João Victor Querino Morais**, estudante de tecnologia e programaç�
 
 Tenho me dedicado a aprender as tecnologias que movem a web moderna, com foco em desenvolvimento back-end e full-stack. Gosto de resolver problemas e transformar ideias em código funcional.
 
-- 🌱 Atualmente aprendendo e evoluindo em **Python, JavaScript, Node.js e SQL**
+- 🌱 Atualmente aprendendo e evoluindo em **JavaScript, Node.js e SQL**
 - 🎯 Objetivo: contribuir com projetos reais e entrar no mercado de tecnologia
-- 💡 Apaixonado por lógica, automação e boas práticas de programação, 
+- 💡 Apaixonado por lógica, automação e boas práticas de programação
 - 📍 Brasil
 
 ---
@@ -61,8 +61,9 @@ Tenho me dedicado a aprender as tecnologias que movem a web moderna, com foco em
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=joaoquerino1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoquerino1&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaoquerino1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoquerino1&layout=compact&langs_count=7&theme=tokyonight&hide_border=true)
 
 </div>
 
