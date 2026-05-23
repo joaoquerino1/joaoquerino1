@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Jo%C3%A3o+Querino!+%F0%9F%91%8B;Em+transi%C3%A7%C3%A3o+de+carreira+para+tech+%F0%9F%9A%80;Transformando+caf%C3%A9+em+c%C3%B3digo+%E2%98%95%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Jo%C3%A3o+Querino!+%F0%9F%91%8B;em+transi%C3%A7%C3%A3o+de+carreira+para+tech+%F0%9F%9A%80;transformando+caf%C3%A9+em+c%C3%B3digo+%E2%98%95%F0%9F%92%BB" alt="Typing SVG" />
 
 </div>
 
@@ -57,17 +57,6 @@ Tenho me dedicado a aprender as tecnologias que movem a web moderna, com foco em
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaoquerino1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoquerino1&layout=compact&langs_count=7&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 🤝 Vamos nos conectar?
 
