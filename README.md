@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Jo%C3%A3o+Querino!+%F0%9F%91%8B;em+transi%C3%A7%C3%A3o+de+carreira+para+tech+%F0%9F%9A%80;transformando+caf%C3%A9+em+c%C3%B3digo+%E2%98%95%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Jo%C3%A3o+Querino!+%F0%9F%91%8B;%45m+transi%C3%A7%C3%A3o+de+carreira+para+tech+%F0%9F%9A%80;Transformando+caf%C3%A9+em+c%C3%B3digo+%E2%98%95%F0%9F%92%BB" alt="Typing SVG" />
 
 </div>
 
