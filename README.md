@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Jo%C3%A3o+Querino!+%F0%9F%91%8B;Em+transi%C3%A7%C3%A3o+de+carreira+para+tech+%F0%9F%9A%80;Transformando+caf%C3%A9+em+c%C3%B3digo+%E2%98%95%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+Olá+,+eu+sou+o+Jo%C3%A3o+Querino!+%F0%9F%91%8B;Em+transi%C3%A7%C3%A3o+de+carreira+para+tech+%F0%9F%9A%80;Transformando+caf%C3%A9+em+c%C3%B3digo+%E2%98%95%F0%9F%92%BB" alt="Typing SVG" />
 
 </div>
 
@@ -12,14 +12,16 @@ Oi! Sou o **João Victor Querino Morais**, estudante de tecnologia e programaç�
 
 Tenho me dedicado a aprender as tecnologias que movem a web moderna, com foco em desenvolvimento back-end e full-stack. Gosto de resolver problemas e transformar ideias em código funcional.
 
-- 🌱 Atualmente aprendendo e evoluindo em **JavaScript, Node.js e SQL**
+- 🌱 Atualmente aprendendo e evoluindo em **Python, JavaScript, Node.js e SQL**
 - 🎯 Objetivo: contribuir com projetos reais e entrar no mercado de tecnologia
-- 💡 Apaixonado por lógica, automação e boas práticas de programação
+- 💡 Apaixonado por lógica, automação e boas práticas de programação, 
 - 📍 Brasil
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
+
+**Conhecimentos**
 
 <div align="center">
 
@@ -29,21 +31,27 @@ Tenho me dedicado a aprender as tecnologias que movem a web moderna, com foco em
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
-&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
-&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" title="GitHub" />
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" title="VS Code" />
+
+</div>
+
+**Aprendendo** 🌱
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
 
 </div>
 
@@ -81,5 +89,5 @@ Tenho me dedicado a aprender as tecnologias que movem a web moderna, com foco em
 </div>
 
 <div align="center">
-  <sub>Feito com ❤️ por João Victor Querino Morais</sub>
+  <sub>Feito por João Victor Querino Morais</sub>
 </div>
