@@ -13,7 +13,7 @@ Tenho me dedicado a aprender as tecnologias que movem a web moderna, com foco em
 - 🌱 Atualmente aprendendo e evoluindo em **JavaScript, Node.js, Java, Spring Boot, Angular e MongoDB**
 - 🎯 Objetivo: contribuir com projetos reais e entrar no mercado de tecnologia
 - 💡 Apaixonado por lógica, automação e boas práticas de programação
-- 📍 Brasil
+- 📍 São José, Santa Catarina, Brasil
 
 ---
 
