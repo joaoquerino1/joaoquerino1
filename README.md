@@ -57,8 +57,7 @@ Tenho me dedicado a aprender as tecnologias que movem a web moderna, com foco em
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaoquerino1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoquerino1&layout=compact&langs_count=7&theme=tokyonight&hide_border=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoquerino1)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
