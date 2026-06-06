@@ -53,16 +53,6 @@ Tenho me dedicado a aprender as tecnologias que movem a web moderna, com foco em
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoquerino1)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
----
-
 ## 🤝 Vamos nos conectar?
 
 <div align="center">
