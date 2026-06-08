@@ -10,7 +10,7 @@ Oi! Sou o **João Victor Querino Morais**, estudante de tecnologia e programaç�
 
 Tenho me dedicado a aprender as tecnologias que movem a web moderna, com foco em desenvolvimento back-end e full-stack. Gosto de resolver problemas e transformar ideias em código funcional.
 
-- 🌱 Atualmente aprendendo e evoluindo em **JavaScript, Node.js, Java, Spring Boot, Angular e MongoDB**
+- 🌱 Atualmente aprendendo e evoluindo em **JavaScript, Node.js, Java, Spring Boot e Angular**
 - 🎯 Objetivo: contribuir com projetos reais e entrar no mercado de tecnologia
 - 💡 Apaixonado por lógica, automação e boas práticas de programação
 - 📍 São José, Santa Catarina, Brasil
