@@ -10,10 +10,30 @@ Oi! Sou o **João Victor Querino Morais**, estudante de tecnologia e programaç�
 
 Tenho me dedicado a aprender as tecnologias que movem a web moderna, com foco em desenvolvimento back-end e full-stack. Gosto de resolver problemas e transformar ideias em código funcional.
 
-- 🌱 Atualmente aprendendo e evoluindo em **JavaScript, Node.js, Java, Spring Boot e Angular**
+- 🌱 Atualmente aprendendo e evoluindo em **Java, Spring Boot, Angular e MongoDB**
+- 🚀 Desenvolvendo projetos com **Next.js, React, TypeScript, Tailwind CSS, Git e Vercel**
 - 🎯 Objetivo: contribuir com projetos reais e entrar no mercado de tecnologia
 - 💡 Apaixonado por lógica, automação e boas práticas de programação
 - 📍 São José, Santa Catarina, Brasil
+
+---
+
+## 🚀 Projeto em Destaque
+
+### Rei do Outlet
+
+Protótipo de modernização digital para uma loja de móveis, desenvolvido com foco em performance, experiência do usuário e escalabilidade.
+
+**Tecnologias utilizadas:**
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Vercel
+- Git & GitHub
+
+💡 Projeto desenvolvido como proposta comercial para demonstrar o potencial de transformação digital do negócio.
 
 ---
 
@@ -22,16 +42,25 @@ Tenho me dedicado a aprender as tecnologias que movem a web moderna, com foco em
 **Conhecimentos**
 
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" title="GitHub" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />
 &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="Vercel" />
 </div>
 
 **Aprendendo** 🌱
