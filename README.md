@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Jo%C3%A3o+Querino!+%F0%9F%91%8B;%45em+transi%C3%A7%C3%A3o+de+carreira+para+tech+%F0%9F%9A%80;Transformando+caf%C3%A9+em+c%C3%B3digo+%E2%98%95%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=950&lines=Ol%C3%A1%2C+eu+sou+Jo%C3%A3o+Querino!+%F0%9F%91%8B;Construindo+com+Next.js%2C+React+e+TypeScript+%E2%9A%A1;Transformando+caf%C3%A9+em+c%C3%B3digo+%E2%98%95%F0%9F%92%BB;git+commit+-m+%22mais+um+dia+evoluindo%22+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 ---
@@ -10,11 +10,24 @@ Oi! Sou o **João Victor Querino Morais**, estudante de tecnologia e programaç�
 
 Tenho me dedicado a aprender as tecnologias que movem a web moderna, com foco em desenvolvimento back-end e full-stack. Gosto de resolver problemas e transformar ideias em código funcional.
 
-- 🌱 Atualmente aprendendo e evoluindo em **Java, Spring Boot, Angular e MongoDB**
+- 🌱 Atualmente aprendendo e evoluindo em **Java, Spring Boot e Angular**
 - 🚀 Desenvolvendo projetos com **Next.js, React, TypeScript, Tailwind CSS, Git e Vercel**
-- 🎯 Objetivo: contribuir com projetos reais e entrar no mercado de tecnologia
+- 🎯 Objetivo: contribuir com projetos reais no mercado de tecnologia
 - 💡 Apaixonado por lógica, automação e boas práticas de programação
 - 📍 São José, Santa Catarina, Brasil
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joaoquerino1&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoquerino1&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=joaoquerino1&theme=tokyonight" />
+</p>
 
 ---
 
@@ -39,39 +52,32 @@ Protótipo de modernização digital para uma loja de móveis, desenvolvido com 
 
 ## 🛠️ Tecnologias & Ferramentas
 
+<div align="center">
+
 **Conhecimentos**
 
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" title="Next.js" />
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="Vercel" />
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
 
 **Aprendendo** 🌱
 
-<div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java" />
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" title="Spring Boot" />
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" title="Angular" />
-&nbsp;&nbsp;
+
 </div>
 
 ---
@@ -79,20 +85,20 @@ Protótipo de modernização digital para uma loja de móveis, desenvolvido com 
 ## 🤝 Vamos nos conectar?
 
 <div align="center">
-<a href="https://www.linkedin.com/in/joaovictorquerinomorais/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="mailto:joaovictorquerino@outlook.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
-</a>
+  <a href="https://github.com/joaoquerino1" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" title="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/joaovictorquerinomorais/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" title="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:joaovictorquerino@outlook.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="E-mail" title="E-mail" />
+  </a>
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=joaoquerino1&color=00BFFF&style=flat-square&label=Visitantes+do+perfil" alt="Profile views" />
-</div>
 
 <div align="center">
   <sub>Feito por João Victor Querino Morais</sub>
