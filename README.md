@@ -31,7 +31,7 @@ Tenho me dedicado a aprender as tecnologias que movem a web moderna, com foco em
 
 ---
 
-## 🚀 Projeto em Destaque
+## 🚀 Projeto em Destaque - https://reidooutlet.vercel.app
 
 ### Rei do Outlet
 
