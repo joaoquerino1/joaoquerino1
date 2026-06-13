@@ -6,8 +6,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Oi! Sou o **João Victor Querino Morais**, estudante de tecnologia e programação, atualmente em **transição de carreira para a área de tech**. Acredito no poder do aprendizado contínuo e estou construindo, dia após dia, a base para me tornar um desenvolvedor cada vez melhor.
-
+Oi! Sou o **João Victor Querino Morais**, estudante de tecnologia e programação. Acredito no poder do aprendizado contínuo e estou construindo, dia após dia, a base para me tornar um desenvolvedor cada vez melhor.
 Tenho me dedicado a aprender as tecnologias que movem a web moderna, com foco em desenvolvimento back-end e full-stack. Gosto de resolver problemas e transformar ideias em código funcional.
 
 - 🌱 Atualmente aprendendo e evoluindo em **Java, Spring Boot e Angular**
