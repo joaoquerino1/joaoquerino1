@@ -6,11 +6,10 @@
 
 ## 👨‍💻 Sobre mim
 
-Oi! Sou o **João Victor Querino Morais**, estudante de tecnologia e programação. Acredito no poder do aprendizado contínuo e estou construindo, dia após dia, a base para me tornar um desenvolvedor cada vez melhor.
+Oi! Sou o **João Victor Querino Morais**, estudante de Análise e Desenvolvimento de Sistemas e entusiasta de tecnologia. Acredito no poder do aprendizado contínuo e estou construindo, dia após dia, a base para me tornar um desenvolvedor cada vez melhor.
 Tenho me dedicado a aprender as tecnologias que movem a web moderna, com foco em desenvolvimento back-end e full-stack. Gosto de resolver problemas e transformar ideias em código funcional.
 
-- 🌱 Atualmente aprendendo e evoluindo em **Java, Spring Boot e Angular**
-- 🚀 Desenvolvendo projetos com **Next.js, React, TypeScript, Tailwind CSS, Git e Vercel**
+- 🚀 Desenvolvendo projetos com **Java, Spring Boot e Angular**
 - 🎯 Objetivo: contribuir com projetos reais no mercado de tecnologia
 - 💡 Apaixonado por lógica, automação e boas práticas de programação
 - 📍 São José, Santa Catarina, Brasil
@@ -58,8 +57,6 @@ Protótipo de modernização digital para uma loja de móveis, desenvolvido com 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" title="Next.js" />
 &nbsp;&nbsp;
