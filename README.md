@@ -5,7 +5,7 @@ Estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor Full Stack e
 </p>
 
 <p align="center">
-Experiência prática com Java, Spring Boot, Python, FastAPI, JavaScript, TypeScript, Angular, React, Next.js, PostgreSQL e Docker.
+Experiência prática com Java, Spring Boot, Python, FastAPI, JavaScript, TypeScript, Angular, React, PostgreSQL e Docker.
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ Experiência prática com Java, Spring Boot, Python, FastAPI, JavaScript, TypeSc
 
 ## 🚀 Projetos em Destaque
 
-**Bravial** — Full Stack
+**TechFrame** — Full Stack
 Sistema de gestão logística desenvolvido com Java, Spring Boot, Angular, TypeScript, PostgreSQL, JPA, Flyway e Docker, com foco em APIs, persistência de dados, arquitetura Full Stack e deploy.
 
 **IoT Device API** — Backend
