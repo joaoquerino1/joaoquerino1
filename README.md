@@ -5,7 +5,7 @@ Estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor Full Stack e
 </p>
 
 <p align="center">
-Experiência prática com Java, Spring Boot, Python, FastAPI, JavaScript, TypeScript, Angular, React, PostgreSQL e Docker.
+Experiência prática com Java, Spring Boot, JavaScript, TypeScript, Angular, React, PostgreSQL e Docker.
 </p>
 
 <p align="center">
@@ -16,10 +16,10 @@ Experiência prática com Java, Spring Boot, Python, FastAPI, JavaScript, TypeSc
 
 <br>
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,js,ts,angular,nextjs,postgres,docker,git" alt="Tecnologias" />
+<img src="https://skillicons.dev/icons?i=java,spring,js,ts,angular,postgres,docker,git" alt="Tecnologias" />
 </p>
 
 <br>
