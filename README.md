@@ -19,7 +19,7 @@ Experiência prática com Java, Spring Boot, Python, FastAPI, JavaScript, TypeSc
 ## 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,js,ts,angular,react,nextjs,postgres,docker,git" alt="Tecnologias" />
+<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,js,ts,angular,nextjs,postgres,docker,git" alt="Tecnologias" />
 </p>
 
 <br>
