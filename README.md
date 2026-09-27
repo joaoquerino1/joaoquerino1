@@ -29,8 +29,8 @@ Experiência prática com Java, Spring Boot, JavaScript, TypeScript, Angular, Re
 **TechFrame** — Full Stack
 Sistema de gestão logística desenvolvido com Java, Spring Boot, Angular, TypeScript, PostgreSQL, JPA, Flyway e Docker, com foco em APIs, persistência de dados, arquitetura Full Stack e deploy.
 
-**IoT Device API** — Backend
-API REST desenvolvida com Python e FastAPI para gerenciamento de dispositivos e eventos relacionados a IoT e segurança eletrônica.
+**DietApp** — Full Stack · Mobile
+App de dieta para ganho de peso, com registro de refeições por foto: a imagem é analisada por visão computacional (LogMeal) e cruzada com a tabela TACO para estimar calorias e macros. API em Java e Spring Boot com processamento assíncrono, autenticação JWT e notificações push via Firebase; app em Flutter com motor que ajusta a meta calórica pela evolução do peso e gamificação para melhor adesão do app. (sequência, XP, níveis e conquistas).
 
 **[Rei do Outlet](https://reidooutlet.vercel.app)** — Full Stack
 Protótipo de modernização digital para uma loja de móveis, desenvolvido com Next.js, React, TypeScript e Tailwind CSS, com foco em performance, responsividade e experiência do usuário.
